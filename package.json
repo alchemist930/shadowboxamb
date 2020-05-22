@@ -1,0 +1,22 @@
+{
+  "name": "shadowbox",
+  "version": "1.0.0",
+  "description": "sample",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alchemist930/shadowbox.git"
+  },
+  "keywords": [
+    "shadows"
+  ],
+  "author": "arneil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alchemist930/shadowbox/issues"
+  },
+  "homepage": "https://github.com/alchemist930/shadowbox#readme"
+}
